@@ -6,15 +6,10 @@ This is a solution to the [Fylo landing page with two column layout challenge on
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -27,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-landing-page-2-xi2_EUaQtq)
+- Live Site URL: (https://mrantikadev.github.io/responsive-landing-page-2.github.io/)
 
 ## My process
 
